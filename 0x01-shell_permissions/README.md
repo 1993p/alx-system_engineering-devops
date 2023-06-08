@@ -1,0 +1,1 @@
+script_that_switches_current_user_to_user_betty
